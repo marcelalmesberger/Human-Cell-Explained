@@ -3,8 +3,8 @@
 
 ## Used third party 3D models
 
-[Animal Cell by nathan stevens](https://poly.google.com/view/bMvXdeiFksm) on Google Poly (CC-BY-License)
-[DNA by nathan stevens](https://poly.google.com/view/eqeVBmTlgiN) on Google Poly (CC-BY-License)
+*[Animal Cell by nathan stevens](https://poly.google.com/view/bMvXdeiFksm) on Google Poly (CC-BY-License)
+*[DNA by nathan stevens](https://poly.google.com/view/eqeVBmTlgiN) on Google Poly (CC-BY-License)
 
 ## Prerequisite
 
@@ -14,7 +14,7 @@
 
 1. Download the [code repository](https://github.com/marcelalmesberger/Human-Cell-Explained/archive/master.zip) and unzip the folder
 
-2. Open Amazon Sumerian and create and empty scene
+2. Open Amazon Sumerian and create an empty scene
 
 3. Import human_cell_explained.zip into your scene
 

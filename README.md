@@ -3,8 +3,8 @@
 
 ## Used third party 3D models
 
-*[Animal Cell by nathan stevens](https://poly.google.com/view/bMvXdeiFksm) on Google Poly (CC-BY-License)
-*[DNA by nathan stevens](https://poly.google.com/view/eqeVBmTlgiN) on Google Poly (CC-BY-License)
+* [Animal Cell by nathan stevens](https://poly.google.com/view/bMvXdeiFksm) on Google Poly (CC-BY-License)
+* [DNA by nathan stevens](https://poly.google.com/view/eqeVBmTlgiN) on Google Poly (CC-BY-License)
 
 ## Prerequisite
 

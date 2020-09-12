@@ -1,5 +1,5 @@
 # Human Cell Explained
-3D Health Eductation program created with Amazon Sumerian. In this interactive training program you can learn more about the human cell and its components. 
+3D Health Eductation program created with Amazon Sumerian. In this interactive training program you can learn more about the human cell and its components. [Watch it on Youtube](https://youtu.be/fah60OvfaWk)
 
 ## Used third party 3D models
 

@@ -1,12 +1,16 @@
 # Human Cell Explained
 3D Health Eductation program created with Amazon Sumerian. In this interactive training program you can learn more about the human cell and its components. [Watch it on Youtube](https://youtu.be/fah60OvfaWk)
 
+## Used technologies
+
+Amazon Sumerian
+
 ## Used third party 3D models
 
 * [Animal Cell by nathan stevens](https://poly.google.com/view/bMvXdeiFksm) on Google Poly (CC-BY-License)
 * [DNA by nathan stevens](https://poly.google.com/view/eqeVBmTlgiN) on Google Poly (CC-BY-License)
 
-## Prerequisite
+## Prerequisites
 
 1. Have an [Amazon Web Services (AWS) account](https://aws.amazon.com/?nc2=h_lg)
 
